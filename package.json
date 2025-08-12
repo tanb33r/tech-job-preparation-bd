@@ -1,0 +1,34 @@
+{
+  "name": "tech-job-preparation-bd",
+  "version": "1.0.0",
+  "description": "Complete guide for landing your first tech job",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "keywords": [
+    "tech-jobs",
+    "career-preparation",
+    "interview-prep",
+    "resume-building",
+    "coding-practice",
+    "freshers",
+    "documentation"
+  ],
+  "author": "Tech Job Preparation Team",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanb33r/tech-job-preparation-bd.git"
+  },
+  "homepage": "https://tanb33r.github.io/tech-job-preparation-bd/",
+  "bugs": {
+    "url": "https://github.com/tanb33r/tech-job-preparation-bd/issues"
+  }
+}
