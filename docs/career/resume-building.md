@@ -334,8 +334,7 @@ Organize skills by proficiency and relevance:
 
 Once your resume is ready:
 
-1. **[Build Your Portfolio](/preparation/portfolio-guide)** - Showcase your projects professionally
-2. **[Prepare for Interviews](/career/interview-tips)** - Get ready for technical and behavioral questions
+1. **[Prepare for Interviews](/career/interview-tips)** - Get ready for technical and behavioral questions
 
 ---
 
