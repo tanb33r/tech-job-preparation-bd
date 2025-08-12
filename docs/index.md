@@ -9,12 +9,6 @@ hero:
     - theme: brand
       text: Start Your Journey
       link: /career/resume-building
-    - theme: alt
-      text: Browse Topics
-      link: /practice/competitive-programming
-    - theme: alt
-      text: Practice Coding
-      link: /practice/competitive-programming
 
 features:
   - icon: 📝
