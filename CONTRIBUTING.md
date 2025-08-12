@@ -12,7 +12,6 @@ We welcome several types of contributions:
 - 🆕 **New content**: Add new sections, guides, or resources
 - 🐛 **Bug fixes**: Fix broken links, formatting issues, or technical problems
 - 💡 **Feature suggestions**: Propose new features or improvements
-- 🎨 **Design improvements**: Enhance UI/UX or visual elements
 
 ### Getting Started
 
@@ -165,83 +164,12 @@ Before submitting content, ensure:
 - [ ] Images have proper alt text
 - [ ] Content is accessible and inclusive
 
-## 🎯 Priority Areas
-
-We especially welcome contributions in these areas:
-
-### High Priority
-- **Interview experiences**: Real interview questions and experiences
-- **Salary data**: Current market rates for different roles and locations
-- **Company insights**: Inside information about hiring processes
-- **Success stories**: Real examples of job search success
-
-### Medium Priority
-- **Code examples**: More practical coding examples
-- **Resource updates**: Keeping external links current
-- **Visual improvements**: Better diagrams and illustrations
-- **Mobile optimization**: Ensuring content works well on mobile
-
-### Future Enhancements
-- **Interactive elements**: Quizzes, calculators, progress trackers
-- **Video content**: Embedded tutorials and explanations
-- **Community features**: Discussion forums, Q&A sections
-- **Localization**: Content in multiple languages
-
-## 🐛 Reporting Issues
-
-### Bug Reports
-
-When reporting bugs, include:
-
-- **Description**: What went wrong?
-- **Steps to reproduce**: How can we recreate the issue?
-- **Expected behavior**: What should have happened?
-- **Screenshots**: Visual evidence of the problem
-- **Environment**: Browser, device, operating system
-
-### Feature Requests
-
-For new features, provide:
-
-- **Problem statement**: What problem does this solve?
-- **Proposed solution**: How should it work?
-- **Alternatives considered**: Other approaches you thought about
-- **Additional context**: Any other relevant information
-
-## 💬 Community Guidelines
-
-### Code of Conduct
-
-- Be respectful and inclusive
-- Welcome newcomers and help them learn
-- Focus on constructive feedback
-- Respect different perspectives and experiences
-- Follow GitHub's community guidelines
-
-### Communication
-
-- Use GitHub Issues for bug reports and feature requests
-- Use GitHub Discussions for questions and general discussion
-- Be patient with response times - this is a volunteer project
-- Provide context when asking questions
 
 ## 🏆 Recognition
 
 Contributors will be recognized in several ways:
 
 - Listed in the project's contributors section
-- Mentioned in release notes for significant contributions
-- Invited to join the maintainer team for consistent contributors
-- Featured in success stories if they land jobs using the guide
-
-## 📞 Getting Help
-
-If you need help contributing:
-
-- Check existing issues and discussions
-- Create a new discussion for questions
-- Reach out to maintainers via GitHub
-- Join our community chat (link coming soon)
 
 ## 📄 License
 
