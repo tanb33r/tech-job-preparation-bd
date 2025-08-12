@@ -1,6 +1,6 @@
 # Tech Job Preparation
-
-A comprehensive guide for landing your first tech job, built with VitePress.
+Visit the site  [Tech Job Preparation](https://tanb33r.github.io/tech-job-preparation-bd/) to get  comprehensive roadmap!
+A comprehensive guide for landing your tech job.
 
 ## 🚀 Quick Start
 
@@ -16,54 +16,6 @@ npm run docs:build
 
 # Preview production build
 npm run docs:preview
-```
-
-## 📁 Project Structure
-
-```
-fresher-tech-job-preparation/
-├── docs/                          # Main documentation
-│   ├── .vitepress/               # VitePress configuration
-│   │   ├── config.js            # Site configuration
-│   │   └── theme/               # Custom theme
-│   │       ├── index.js         # Theme entry point
-│   │       └── custom.css       # Custom styling
-│   ├── index.md                 # Homepage & getting started
-│   ├── career/                  # Career guidance
-│   │   ├── resume-building.md   # Resume writing guide
-│   │   ├── interview-tips.md    # Interview strategies
-│   │   ├── career-growth.md     # Long-term career development
-│   │   ├── first-job-tips.md    # Succeeding in first role
-│   │   └── salary-negotiation.md # Compensation strategies
-│   ├── technical/               # Core technical skills
-│   │   ├── oop.md              # Object-oriented programming
-│   │   ├── databases.md        # Database fundamentals
-│   │   ├── git-version-control.md # Git & version control
-│   │   ├── networking-basics.md # Computer networking
-│   │   └── apis-http.md        # APIs & HTTP protocols
-│   ├── swe/                    # Software engineering
-│   │   ├── core-concepts.md    # Software engineering basics
-│   │   ├── languages-frameworks.md # Programming languages
-│   │   └── system-design.md    # System design principles
-│   ├── sqa/                    # Software quality assurance
-│   │   ├── manual-testing.md   # Manual testing techniques
-│   │   ├── automation-testing.md # Automated testing
-│   │   └── test-strategy.md    # Testing strategies
-│   ├── uiux/                   # UI/UX design
-│   │   ├── design-principles.md # Design fundamentals
-│   │   ├── prototyping.md      # Prototyping techniques
-│   │   └── usability-testing.md # User testing methods
-│   ├── mlai/                   # Machine learning & AI
-│   │   ├── math-foundations.md # Mathematical foundations
-│   │   ├── ml-models.md       # Machine learning models
-│   │   └── deployment.md      # ML model deployment
-│   └── practice/               # Hands-on practice
-│       ├── competitive-programming.md # Algorithm practice
-│       ├── oop.md              # OOP exercises
-│       └── database.md         # Database practice problems
-├── package.json                # Dependencies & scripts
-├── README.md                  # Project documentation
-└── CONTRIBUTING.md           # Contribution guidelines
 ```
 
 ## 🎯 Content Sections

@@ -1,7 +1,7 @@
 {
   "name": "tech-job-preparation-bd",
   "version": "1.0.0",
-  "description": "Complete guide for landing your first tech job",
+  "description": "Complete guide for landing your tech job",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev docs",

@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Tech Job Preparation"
-  text: "Your Complete Guide to Landing Your First Tech Job"
+  text: "Your Complete Guide to Landing Your Tech Job"
   tagline: "From resume building to salary negotiation - everything you need to kickstart your tech career"
   actions:
     - theme: brand
