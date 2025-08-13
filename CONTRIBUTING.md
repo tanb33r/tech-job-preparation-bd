@@ -126,7 +126,7 @@ Use this for critical information
 
 1. **Create descriptive commits**
    ```bash
-   git commit -m "Add: salary negotiation strategies for freshers"
+   git commit -m "Add: SQA Guideline"
    ```
 
 2. **Write a clear PR description**

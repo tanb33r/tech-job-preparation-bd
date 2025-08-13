@@ -46,9 +46,12 @@ export default {
       { 
         text: 'SWE', 
         items: [
-          { text: 'Core Concepts', link: '/swe/core-concepts' },
-          { text: 'Languages & Frameworks', link: '/swe/languages-frameworks' },
-          { text: 'System Design', link: '/swe/system-design' }
+          { text: 'Introduction to BD Companies', link: '/swe/introduction-to-bd-companies' },
+          { text: 'Problem-Solving + DSA', link: '/swe/problem-solving-dsa' },
+          { text: 'Object Oriented Programming', link: '/swe/oop' },
+          { text: 'Database', link: '/swe/database' },
+          { text: 'Operating System', link: '/swe/os-basics' },
+          // { text: 'Technical Skills', link: '/swe/technical-skills' },
         ]
       },
       { 
@@ -98,9 +101,12 @@ export default {
         {
           text: 'SWE',
           items: [
-            { text: 'Core Concepts', link: '/swe/core-concepts' },
-            { text: 'Languages & Frameworks', link: '/swe/languages-frameworks' },
-            { text: 'System Design', link: '/swe/system-design' }
+            { text: 'Introduction to BD Companies', link: '/swe/introduction-to-bd-companies' },
+            { text: 'Problem-Solving + DSA', link: '/swe/problem-solving-dsa' },
+            { text: 'Object Oriented Programming', link: '/swe/oop' },
+            { text: 'Database', link: '/swe/database' },
+            { text: 'Operating System', link: '/swe/os-basics' },
+            // { text: 'Technical Skills', link: '/swe/technical-skills' },
           ]
         }
       ],
@@ -116,21 +122,14 @@ export default {
       ],
       '/swe/': [
         {
-          text: 'Core Technical Skills',
-          items: [
-            { text: 'OOP', link: '/technical/oop' },
-            { text: 'Databases', link: '/technical/databases' },
-            { text: 'Git & Version Control', link: '/technical/git-version-control' },
-            { text: 'Networking Basics', link: '/technical/networking-basics' },
-            { text: 'APIs & HTTP', link: '/technical/apis-http' }
-          ]
-        },
-        {
           text: 'SWE',
           items: [
-            { text: 'Core Concepts', link: '/swe/core-concepts' },
-            { text: 'Languages & Frameworks', link: '/swe/languages-frameworks' },
-            { text: 'System Design', link: '/swe/system-design' }
+            { text: 'Introduction to BD Companies', link: '/swe/introduction-to-bd-companies' },
+            { text: 'Problem-Solving + DSA', link: '/swe/problem-solving-dsa' },
+            { text: 'Object Oriented Programming', link: '/swe/oop' },
+            { text: 'Database', link: '/swe/database' },
+            { text: 'Operating System', link: '/swe/os-basics' },
+            // { text: 'Technical Skills', link: '/swe/technical-skills' },
           ]
         }
       ],
