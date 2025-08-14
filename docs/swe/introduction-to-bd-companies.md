@@ -67,7 +67,7 @@ We will guide through on
 - **Problem-Solving + Data Structures and Algorithms**
 - **Object Oriented Programming**
 - **Database**
-- **Operating System Basics**
+- **Operating System**
 - **Behavioral skills**
 - **Technical skills**
 - **Soft skills**

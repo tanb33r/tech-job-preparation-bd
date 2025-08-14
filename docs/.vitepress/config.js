@@ -80,10 +80,11 @@ export default {
       '/career/': [
         {
           text: 'General Career Guides',
+          base:  '/career',
           items: [
-            { text: 'Resume Building', link: '/career/resume-building' },
-            { text: 'Interview Tips', link: '/career/interview-tips' },
-            { text: 'Salary Negotiation', link: '/career/salary-negotiation' }
+            { text: 'Resume Building', link: '/resume-building' },
+            { text: 'Interview Tips', link: '/interview-tips' },
+            { text: 'Salary Negotiation', link: '/salary-negotiation' }
           ]
         }
       ],
@@ -116,7 +117,8 @@ export default {
           items: [
             { text: 'Manual Testing', link: '/sqa/manual-testing' },
             { text: 'Automation Testing', link: '/sqa/automation-testing' },
-            { text: 'Test Strategy', link: '/sqa/test-strategy' }
+            { text: 'Test Strategy', link: '/sqa/test-strategy' },
+            { text: 'Database', link: '/sqa/database' }
           ]
         }
       ],
