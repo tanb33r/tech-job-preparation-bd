@@ -80,6 +80,7 @@ The trick of building good resume is to make it look full, but avoid using unnec
 **Mistake 4: Applying with unproffesional resume file name**
 
 Be professional about the pdf file name you are applying with.
+
 **❌ Avoid:**
 - name(5).pdf
 - d3eui23.pdf
@@ -204,13 +205,6 @@ Once your resume is ready:
 
 ---
 
-::: tip Pro Tip
-Be professional about the pdf file name you are applying with.
-
-Your_Name_Resume.pdf Your-Name-Resume or similar formats are fine.
-
-Dont apply with weird looking filename.
-:::
 ::: tip Pro Tip
 If you are applying for variuos roles (SWE, AI/ML) create separate resume for each role.
 :::
