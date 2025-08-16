@@ -26,54 +26,49 @@ export default {
       },
       {
         text: "SWE",
-        base: "/swe",
         items: [
-          { text: "Resume Building", link: "/resume-building" },
+          { text: "Resume Building", link: "/swe/resume-building" },
           {
             text: "Introduction to BD Companies",
-            link: "/introduction-to-bd-companies",
+            link: "/swe/introduction-to-bd-companies",
           },
-          { text: "Problem-Solving + DSA", link: "/problem-solving-dsa" },
-          { text: "Object Oriented Programming", link: "/oop" },
-          { text: "Database", link: "/database" },
-          { text: "Operating System", link: "/os-basics" },
+          { text: "Problem-Solving + DSA", link: "/swe/problem-solving-dsa" },
+          { text: "Object Oriented Programming", link: "/swe/oop" },
+          { text: "Database", link: "/swe/database" },
+          { text: "Operating System", link: "/swe/os-basics" },
           // { text: 'Technical Skills', link: '/technical-skills' },
         ],
       },
       {
-        text: "DevOps",
-        base: "/devops",
-        items: [{ text: "Resume Building", link: "/resume-building" }],
-      },
-      {
         text: "SQA",
-        base: "/sqa",
         items: [
-          { text: "Resume Building", link: "/resume-building" },
-          { text: "Manual Testing", link: "/manual-testing" },
-          { text: "Automation Testing", link: "/automation-testing" },
-          { text: "Test Strategy", link: "/test-strategy" },
-          { text: "Database", link: "/database" },
+          { text: "Resume Building", link: "/sqa/resume-building" },
+          { text: "Manual Testing", link: "/sqa/manual-testing" },
+          { text: "Automation Testing", link: "/sqa/automation-testing" },
+          { text: "Test Strategy", link: "/sqa/test-strategy" },
+          { text: "Database", link: "/sqa/database" },
         ],
       },
       {
+        text: "DevOps",
+        items: [{ text: "Resume Building", link: "/devops/resume-building" }],
+      },
+      {
         text: "UI/UX",
-        base: "/uiux",
         items: [
-          { text: "Resume Building", link: "/resume-building" },
-          { text: "Design Principles", link: "/design-principles" },
-          { text: "Prototyping", link: "/prototyping" },
-          { text: "Usability Testing", link: "/usability-testing" },
+          { text: "Resume Building", link: "/uiux/resume-building" },
+          { text: "Design Principles", link: "/uiux/design-principles" },
+          { text: "Prototyping", link: "/uiux/prototyping" },
+          { text: "Usability Testing", link: "/uiux/usability-testing" },
         ],
       },
       {
         text: "ML/AI",
-        base: "/mlai",
         items: [
-          { text: "Resume Building", link: "/resume-building" },
-          { text: "Math Foundations", link: "/math-foundations" },
-          { text: "ML Models", link: "/ml-models" },
-          { text: "Deployment", link: "/deployment" },
+          { text: "Resume Building", link: "/mlai/resume-building" },
+          { text: "Math Foundations", link: "/mlai/math-foundations" },
+          { text: "ML Models", link: "/mlai/ml-models" },
+          { text: "Deployment", link: "/mlai/deployment" },
         ],
       },
       {
@@ -109,7 +104,7 @@ export default {
       ],
       "/swe/": [
         {
-          text: "SWE",
+          text: "Software Engineering",
           base: "/swe",
           items: [
             { text: "Resume Building", link: "/resume-building" },
@@ -125,16 +120,9 @@ export default {
           ],
         },
       ],
-      "/devops/": [
-        {
-          text: "DevOps",
-          base: "/devops",
-          items: [{ text: "Resume Building", link: "/resume-building" }],
-        },
-      ],
       "/sqa/": [
         {
-          text: "SQA",
+          text: "Software Quality Assurance",
           base: "/sqa",
           items: [
             { text: "Resume Building", link: "/resume-building" },
@@ -143,6 +131,13 @@ export default {
             { text: "Test Strategy", link: "/test-strategy" },
             { text: "Database", link: "/database" },
           ],
+        },
+      ],
+      "/devops/": [
+        {
+          text: "DevOps",
+          base: "/devops",
+          items: [{ text: "Resume Building", link: "/resume-building" }],
         },
       ],
       "/uiux/": [
