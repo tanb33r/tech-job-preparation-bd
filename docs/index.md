@@ -8,13 +8,13 @@ hero:
   actions:
     - theme: brand
       text: Start Your Journey
-      link: /career/resume-building
+      link: /swe/resume-building
 
 features:
   - icon: 📝
     title: General Career Guides
     details: Resume building, interview tips, and salary negotiation strategies for tech freshers
-    link: /career/resume-building
+    link: /swe/resume-building
   - icon: 💻
     title: Core Technical Skills
     details: Object-oriented programming, databases, Git, networking, and API fundamentals
