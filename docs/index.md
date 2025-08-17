@@ -15,10 +15,6 @@ features:
     title: General Career Guides
     details: Resume building, interview tips, and salary negotiation strategies for tech freshers
     link: /swe/resume-building
-  - icon: 💻
-    title: Core Technical Skills
-    details: Object-oriented programming, databases, Git, networking, and API fundamentals
-    link: /technical/oop
   - icon: ⚙️
     title: Software Engineering (SWE)
     details: Core software engineering concepts, languages, frameworks, and system design
@@ -27,6 +23,10 @@ features:
     title: Software Quality Assurance (SQA)
     details: Manual testing, automation testing, and test strategy for quality assurance roles
     link: /sqa/manual-testing
+  - icon: 🛠️
+    title: DevOps Engineering
+    details: CI/CD pipelines, infrastructure as code, monitoring, and automation for DevOps roles
+    link: /devops/ci-cd
   - icon: 🎨
     title: UI/UX Design
     details: Design principles, prototyping, and usability testing for design roles

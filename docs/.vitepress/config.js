@@ -86,7 +86,6 @@ export default {
           items: [
             { text: "Resume Building", link: "/resume-building" },
             { text: "Interview Tips", link: "/interview-tips" },
-            { text: "Salary Negotiation", link: "/salary-negotiation" },
           ],
         },
       ],
