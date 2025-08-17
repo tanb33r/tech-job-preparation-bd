@@ -40,10 +40,10 @@ We welcome several types of contributions:
 
 ### Writing Style
 
+- **Less is more**: We don't want to have long eassay here, shorter clear guideline is more appreciated.
 - **Clear and concise**: Use simple language that freshers can understand
 - **Actionable**: Provide specific steps and examples
 - **Structured**: Use headings, lists, and sections for easy scanning
-- **Inclusive**: Use inclusive language and consider diverse backgrounds
 
 ### Content Structure
 
@@ -157,7 +157,6 @@ Before submitting content, ensure:
 
 - [ ] Content is accurate and up-to-date
 - [ ] All links work and are relevant
-- [ ] Code examples are tested and functional
 - [ ] Grammar and spelling are correct
 - [ ] Content follows the established style guide
 - [ ] Navigation is updated if needed
