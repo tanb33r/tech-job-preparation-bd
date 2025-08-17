@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Your resume is your first impression with potential employers. In the competitive tech industry, having an ATS-friendly resume that stands out is crucial for landing interviews. This comprehensive guide will help you create a resume that gets noticed.
+Your resume is your first impression with potential employers. In the competitive tech industry, having an ATS-friendly resume is crucial for landing interviews. This comprehensive guide will help you create a resume that gets noticed.
 
 ## Resume Templates
 I recommend this [template](https://www.overleaf.com/latex/templates/rendercv-sb2nov-theme/gdspgtsnfncm), it's most popular and clean, clear template.
@@ -31,27 +31,13 @@ The trick of building good resume is to make it look full, but avoid using unnec
 
 <article>
 
-**Mistake 1: Generic Objective Statements**
+**Mistake: Listing Responsibilities Instead of Achievements**
 
-**❌ Bad Example:**
-"Seeking a challenging position in software development where I can utilize my skills"
+❌ Bad Example:
+“Responsible for testing software applications”
 
-**✅ Good Example:**
-"Frontend Developer with expertise in React and JavaScript, seeking to contribute to innovative web applications at a growth-stage startup"
-
-**Why it's better:** Specific, mentions technologies, shows career direction
-
-</article>
-
-<article>
-
-**Mistake 2: Listing Responsibilities Instead of Achievements**
-
-**❌ Bad Example:**
-"Responsible for developing web applications using React"
-
-**✅ Good Example:**
-"Developed 3 responsive web applications using React, improving user engagement by 25%"
+✅ Good Example:
+“Executed comprehensive test plans and identified 50+ critical defects across 4 product releases, helping reduce post-release issues by 20%”
 
 **Why it's better:** Shows impact with metrics, demonstrates results
 
@@ -59,7 +45,7 @@ The trick of building good resume is to make it look full, but avoid using unnec
 
 <article>
 
-**Mistake 3: Including Irrelevant Information**
+**Mistake: Including Irrelevant Information**
 
 **❌ Avoid:**
 - Personal details (age, marital status, photo)
@@ -77,7 +63,7 @@ The trick of building good resume is to make it look full, but avoid using unnec
 
 <article>
 
-**Mistake 4: Applying with unproffesional resume file name**
+**Mistake: Applying with unproffesional resume file name**
 
 Be professional about the pdf file name you are applying with.
 
@@ -92,36 +78,34 @@ Be professional about the pdf file name you are applying with.
 Sometimes a file name format will be mentioned in the job description, make sure to follow it.
 
 </article>
-
-## Project Section Best Practices
-
+## Project Section Best Practices (SQA)
 <article>
 
-**How to Present Projects Effectively**
+**How to Present SQA Projects Effectively**
 
 Each project should follow this structure:
 
-**Project Name** | [GitHub Link] | [Live Demo Link]
-- **Description**: What the project does in 1-2 lines
-- **Technologies**: Specific tech stack used
-- **Key Features**: 2-3 main functionalities
-- **Impact/Results**: Metrics or achievements if available
+**Project Name** | [GitHub/Test Repo] | [Documentation or Report Link]  
+- **Description**: What was tested and the goal of the project (1–2 lines)  
+- **Tools & Technologies**: Specific tools and frameworks used  
+- **Testing Scope / Key Activities**: 2–3 main types of testing performed  
+- **Impact/Results**: Improvements, defect reduction, or time saved backed by metrics  
 
 <details><summary>Show Project Examples</summary>
 
-**Example 1: E-commerce Website**
-E-commerce Platform | [GitHub](https://youtu.be/dQw4w9WgXcQ) | [Live Demo](https://youtu.be/dQw4w9WgXcQ)
-- Full-stack e-commerce application with user authentication and payment integration
-- Technologies: React, Node.js, Express, MongoDB, Stripe API
-- Key Features: Product catalog, shopping cart, secure checkout, admin dashboard
-- Results: Handles 100+ concurrent users, 99.9% uptime
+**Example 1: Web Application Test Automation**  
+E-commerce Application QA | [GitHub](#) | [Test Report](#)  
+- Automated functional and regression testing for an online shopping platform  
+- **Tools & Technologies**: Selenium WebDriver, Java, TestNG, Jenkins  
+- **Testing Scope**: User authentication, product search, add-to-cart, checkout flow  
+- **Results**: Automated 80% of regression test cases, reducing test cycle time by 40%
 
-**Example 2: Data Visualization Dashboard**
-COVID-19 Data Dashboard | [GitHub](https://youtu.be/dQw4w9WgXcQ) | [Live Demo](https://youtu.be/dQw4w9WgXcQ)
-- Interactive dashboard displaying real-time COVID-19 statistics
-- Technologies: Python, Dash, Plotly, Pandas, REST APIs
-- Key Features: Real-time data updates, interactive charts, country comparisons
-- Impact: Used by 500+ users for tracking pandemic trends
+**Example 2: API Testing Project**  
+REST API Quality Assurance | [GitHub](#) | [Postman Collection](#)  
+- Validated API endpoints for a microservices-based application  
+- **Tools & Technologies**: Postman, Newman, Swagger  
+- **Testing Scope**: Functional testing, response validation, negative test scenarios  
+- **Impact**: Detected 15 critical API defects in early development phase, improving API reliability
 
 </details>
 
@@ -206,5 +190,5 @@ Once your resume is ready:
 ---
 
 ::: tip Pro Tip
-If you are applying for variuos roles (SWE, AI/ML) create separate resume for each role.
+If you are applying for variuos roles (SQA, AI/ML) create separate resume for each role.
 :::

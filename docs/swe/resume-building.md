@@ -31,21 +31,7 @@ The trick of building good resume is to make it look full, but avoid using unnec
 
 <article>
 
-**Mistake 1: Generic Objective Statements**
-
-**❌ Bad Example:**
-"Seeking a challenging position in software development where I can utilize my skills"
-
-**✅ Good Example:**
-"Frontend Developer with expertise in React and JavaScript, seeking to contribute to innovative web applications at a growth-stage startup"
-
-**Why it's better:** Specific, mentions technologies, shows career direction
-
-</article>
-
-<article>
-
-**Mistake 2: Listing Responsibilities Instead of Achievements**
+**Mistake: Listing Responsibilities Instead of Achievements**
 
 **❌ Bad Example:**
 "Responsible for developing web applications using React"
@@ -59,7 +45,7 @@ The trick of building good resume is to make it look full, but avoid using unnec
 
 <article>
 
-**Mistake 3: Including Irrelevant Information**
+**Mistake: Including Irrelevant Information**
 
 **❌ Avoid:**
 - Personal details (age, marital status, photo)
@@ -77,7 +63,7 @@ The trick of building good resume is to make it look full, but avoid using unnec
 
 <article>
 
-**Mistake 4: Applying with unproffesional resume file name**
+**Mistake: Applying with unproffesional resume file name**
 
 Be professional about the pdf file name you are applying with.
 
