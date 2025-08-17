@@ -1,5 +1,5 @@
 <template>
-  <div class="view-counter-container">
+  <div class="view-counter-container" style="display:none;">
     <div class="view-counter">
       <svg class="view-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
@@ -42,6 +42,7 @@ async function loadViewCount() {
     const countElement = document.getElementById("custom-view-count")
     if (countElement) {
       countElement.innerText = count
+      document.querySelector('.view-counter-container').style.display = "flex";
     }
   } catch (error) {
     console.error('Error loading view count:', error)
