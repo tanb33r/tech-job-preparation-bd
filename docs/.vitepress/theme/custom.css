@@ -5,10 +5,14 @@
   --vp-c-brand-3: #047857;
   --vp-c-brand-soft: #10b98110;
   --vp-c-brand-softer: #10b98108;
+  --counter-color-1: #10b981;
+  --counter-color-2: #047857;
 }
 
 /* Dark mode brand colors */
 .dark {
+  --counter-color-1: #10b981;
+  --counter-color-2: #110d47;
   --vp-c-brand-1: #34d399;
   --vp-c-brand-2: #10b981;
   --vp-c-brand-3: #059669;

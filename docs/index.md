@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Tech Job Preparation"
-  text: "Your Complete Guide to Landing Your Tech Job"
+  text: "Complete Guide to Landing Tech Job"
   tagline: "From resume building to salary negotiation - everything you need to kickstart your tech career"
   actions:
     - theme: brand
@@ -36,3 +36,5 @@ features:
     details: Math foundations, machine learning models, and deployment strategies
     link: /mlai/math-foundations
 ---
+
+<CustomViewsCounter />

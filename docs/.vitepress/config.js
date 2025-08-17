@@ -177,7 +177,7 @@ export default {
     ],
 
     footer: {
-      message: "Built with ❤️ for job seekers in Bangladesh",
+      message: "Built with ❤️ for job seekers in 🇧🇩",
       copyright: "Copyright © 2025 Tech Job Preparation",
     },
 

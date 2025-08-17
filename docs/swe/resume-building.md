@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Your resume is your first impression with potential employers. In the competitive tech industry, having an ATS-friendly resume that stands out is crucial for landing interviews. This comprehensive guide will help you create a resume that gets noticed.
+Your resume is your first impression with potential employers. In the competitive tech industry, having an ATS-friendly resume is crucial for landing interviews. This comprehensive guide will help you create a resume that gets noticed.
 
 ## Resume Templates
 I recommend this [template](https://www.overleaf.com/latex/templates/rendercv-sb2nov-theme/gdspgtsnfncm), it's most popular and clean, clear template.
