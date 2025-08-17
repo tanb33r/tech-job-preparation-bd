@@ -2,6 +2,7 @@ export default {
   title: "Tech Job Preparation",
   description: "Complete guide for landing your first tech job",
   base: "/tech-job-preparation-bd/",
+  cleanUrls: true,
   ignoreDeadLinks: true,
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
